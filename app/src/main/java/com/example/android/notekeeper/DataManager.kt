@@ -31,7 +31,6 @@ object DataManager {
     }
 
     private fun initializeNote() {
-        notes.add(NoteInfo(courses["math"]!!, "TEST4", "TEST4"))
     }
 
 
