@@ -29,4 +29,11 @@ object DataManager {
         notes.add(NoteInfo(courses["math"]!!, "TEST3", "TEST3"))
         notes.add(NoteInfo(courses["math"]!!, "TEST4", "TEST4"))
     }
+
+    private fun initializeNote() {
+        notes.add(NoteInfo(courses["math"]!!, "TEST3", "TEST3"))
+        notes.add(NoteInfo(courses["math"]!!, "TEST4", "TEST4"))
+    }
+
+
 }
