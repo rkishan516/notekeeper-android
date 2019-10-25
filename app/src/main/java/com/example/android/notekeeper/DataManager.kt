@@ -28,7 +28,5 @@ object DataManager {
         notes.add(NoteInfo(courses["chemistry"]!!, "TEST2", "TEST2"))
         notes.add(NoteInfo(courses["math"]!!, "TEST3", "TEST3"))
         notes.add(NoteInfo(courses["math"]!!, "TEST4", "TEST4"))
-        notes.add(NoteInfo(courses["physics"]!!, "TEST5", "TEST5"))
-        notes.add(NoteInfo(courses["chemistry"]!!, "TEST6", "TEST6"))
     }
 }
